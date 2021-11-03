@@ -93,8 +93,8 @@ echo "<script type='text/javascript'>alert('$true');</script>";
 }else{
 echo "<script type='text/javascript'>alert('$false');</script>";
 }
-header("Refresh: 0; url=index.php");
-die();
+//header("Refresh: 0; url=index.php");
+//die();
 }
 ?>
 
